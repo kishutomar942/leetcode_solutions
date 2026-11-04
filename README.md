@@ -9,6 +9,7 @@ This repository contains my solutions to LeetCode problems, implemented in **C++
 | Problem | Name | Language |
 |---|---|---|
 | 1 | Two Sum | C++ |
+| 2 |Add two number|c++|
 | 3505 | Minimum Operations | C++ |
 
 ## 🎯 Goals
