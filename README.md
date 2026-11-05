@@ -10,6 +10,7 @@ This repository contains my solutions to LeetCode problems, implemented in **C++
 |---|---|---|
 | 1 | Two Sum | C++ |
 | 2 |Add two number|c++|
+|3|Longest Substring Without Repeating Characters|c++|
 |1385|Distance between two numbers|c++|
 |3736|Minimum Moves to Equal Array Elements III|c++|
 | 3505 | Minimum Operations | C++ |
