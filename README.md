@@ -10,6 +10,7 @@ This repository contains my solutions to LeetCode problems, implemented in **C++
 |---|---|---|
 | 1 | Two Sum | C++ |
 | 2 |Add two number|c++|
+4|Median of two sorted array|c++|
 |3|Longest Substring Without Repeating Characters|c++|
 |561|Array partition|c++|
 |1385|Distance between two numbers|c++|
