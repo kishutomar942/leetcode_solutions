@@ -14,6 +14,7 @@ This repository contains my solutions to LeetCode problems, implemented in **C++
 |3|Longest Substring Without Repeating Characters|c++|
 |561|Array partition|c++|
 |1385|Distance between two numbers|c++|
+|1882|Process tasks using server|c++|
 |2747|Count zero reguest server|c++|
 |3736|Minimum Moves to Equal Array Elements III|c++|
 | 3505 | Minimum Operations | C++ |
