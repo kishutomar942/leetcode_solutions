@@ -10,8 +10,11 @@ This repository contains my solutions to LeetCode problems, implemented in **C++
 |---|---|---|
 | 1 | Two Sum | C++ |
 | 2 |Add two number|c++|
-4|Median of two sorted array|c++|
+|4|Median of two sorted array|c++|
 |3|Longest Substring Without Repeating Characters|c++|
+|188|Best time stock iv|c++|
+|189|Rotate array|c++|
+|407|Trapping rain water ii|c++|
 |561|Array partition|c++|
 |1385|Distance between two numbers|c++|
 |1882|Process tasks using server|c++|
