@@ -14,6 +14,7 @@ This repository contains my solutions to LeetCode problems, implemented in **C++
 |4|Median of two sorted array|c++|
 |5|Longest palindromic substring|c++|
 |11|Container with most water|c++|
+|14|Longest common prefix|c++|
 |188|Best time stock iv|c++|
 |189|Rotate array|c++|
 |407|Trapping rain water ii|c++|
@@ -24,7 +25,7 @@ This repository contains my solutions to LeetCode problems, implemented in **C++
 |1882|Process tasks using server|c++|
 |2747|Count zero reguest server|c++|
 |3736|Minimum Moves to Equal Array Elements III|c++|
-| 3505 | Minimum Operations | C++ |
+|3505 | Minimum Operations | C++ |
 
 ## 🎯 Goals
 - Improve problem-solving skills.
