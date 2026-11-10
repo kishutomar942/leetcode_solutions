@@ -23,6 +23,7 @@ This repository contains my solutions to LeetCode problems, implemented in **C++
 |1385|Distance between two numbers|c++|
 |1606|Busiest servers|c++|
 |1882|Process tasks using server|c++|
+|2130|Maximum twin sum|C++|
 |2747|Count zero reguest server|c++|
 |3505 | Minimum Operations | C++ |
 |3693|Climbing stairs II|c++|
