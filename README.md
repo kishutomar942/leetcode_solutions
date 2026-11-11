@@ -17,6 +17,7 @@ This repository contains my solutions to LeetCode problems, implemented in **C++
 |12|Integer to roman|C++|
 |14|Longest common prefix|c++|
 |26|Remove Duplicates from Sorted Array|C++|
+|27|Remove duplicates|C++|
 |188|Best time stock iv|c++|
 |189|Rotate array|c++|
 |407|Trapping rain water ii|c++|
