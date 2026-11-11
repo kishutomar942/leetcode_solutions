@@ -16,6 +16,7 @@ This repository contains my solutions to LeetCode problems, implemented in **C++
 |11|Container with most water|c++|
 |12|Integer to roman|C++|
 |14|Longest common prefix|c++|
+|26|Remove Duplicates from Sorted Array|C++|
 |188|Best time stock iv|c++|
 |189|Rotate array|c++|
 |407|Trapping rain water ii|c++|
@@ -29,6 +30,7 @@ This repository contains my solutions to LeetCode problems, implemented in **C++
 |3505 | Minimum Operations | C++ |
 |3693|Climbing stairs II|c++|
 |3736|Minimum Moves to Equal Array Elements III|c++|
+|3789|Minimum Cost to Acquire Required Items|C++|
 
 
 ## 🎯 Goals
