@@ -18,6 +18,8 @@ This repository contains my solutions to LeetCode problems, implemented in **C++
 |14|Longest common prefix|c++|
 |26|Remove Duplicates from Sorted Array|C++|
 |27|Remove duplicates|C++|
+|35|Search insert position|C++|
+|88|Merge sorted array|C++|
 |188|Best time stock iv|c++|
 |189|Rotate array|c++|
 |407|Trapping rain water ii|c++|
@@ -28,6 +30,7 @@ This repository contains my solutions to LeetCode problems, implemented in **C++
 |1882|Process tasks using server|c++|
 |2130|Maximum twin sum|C++|
 |2747|Count zero reguest server|c++|
+|3105|Longest monotonic subarray|c++|
 |3505 | Minimum Operations | C++ |
 |3693|Climbing stairs II|c++|
 |3736|Minimum Moves to Equal Array Elements III|c++|
