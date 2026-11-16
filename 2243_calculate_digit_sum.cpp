@@ -32,6 +32,5 @@ int main() {
     int k = 3;
 
     cout << "Final Digit Sum: " << digitSum(s, k);
-
     return 0;
 }
